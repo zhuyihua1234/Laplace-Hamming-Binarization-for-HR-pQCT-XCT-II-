@@ -183,4 +183,3 @@ MIT License. See `LICENSE` for details.
 Kazakia Lab — Bone Quality Research Lab  
 Department of Radiology and Biomedical Imaging  
 University of California, San Francisco  
-https://github.com/KazakiaLab
