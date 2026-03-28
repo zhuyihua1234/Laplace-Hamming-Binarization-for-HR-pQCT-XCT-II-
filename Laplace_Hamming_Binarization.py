@@ -42,12 +42,6 @@ Filter parameters and binarization approach:
     Rescues Fine Feature Segmentation. J Bone Miner Res, 38(7), 1006-1014.
     https://doi.org/10.1002/jbmr.4819
 
-Cross-calibration validation:
-    Sadoughi S., Subramanian A., Ramil G., Zhou M., Burghardt A.J.,
-    Kazakia G.J. (2024). HR-pQCT Cross-Calibration Using Standard vs.
-    Laplace-Hamming Binarization Approach. JBMR Plus, 8(10), ziae116.
-    https://doi.org/10.1093/jbmrpl/ziae116
-
 IPL threshold calibration:
     Scanco Medical IPL reference values (seg_gauss, low_th = 1170 mgHA/cm³).
     Constants recalibrated from 3-point IPL intensity mapping (min/max/mean)
@@ -55,8 +49,8 @@ IPL threshold calibration:
 
 Authors
 -------
-    Kazakia Lab, UCSF Musculoskeletal Quantitative Imaging Research
-    https://github.com/KazakiaLab
+    Yihua Zhu - Kazakia Lab, UCSF Musculoskeletal Quantitative Imaging Research
+    https://github.com/zhuyihua1234
 """
 
 import os
